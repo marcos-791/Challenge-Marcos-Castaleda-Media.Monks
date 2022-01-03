@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Challenge Android Media.Monks</string>
+
+    <string name="id">Album ID: </string>
+    <string name="mas_datos"> <u>Mas datos....</u> </string>
+
+    <string name="album">Album</string>
+    <string name="photo">Photo</string>
+    <string name="error_getting_data">Error getting data</string>
+</resources>
